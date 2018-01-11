@@ -1,4 +1,4 @@
 Name,S,20
 Place,S,20
 Mobile,S,10
-Distance,F,10
+Distance,F,5
