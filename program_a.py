@@ -1,8 +1,15 @@
 import sys
+import time
+
+start = time.time()
 file_name = input("Enter file name ")
 table = open(file_name,"r",1)
 print("Name of the file: ", table.name)
 File_content = table.readlines()
+end = time.time()
+time_elapsed = end - start
+print("Time elapsed for reading: " + str(time_elapsed))
+
 length = len(File_content)
 fields = File_content[0].split(',')
 num = len(fields)
