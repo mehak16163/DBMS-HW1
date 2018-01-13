@@ -1,4 +1,5 @@
-program_a.py - 9.454959630966187
-program_b.py - 4.888545513153076
+program1_2016093_2016163.py - 9.435317516326904
+program2_20106093_2016163.py - 13.172379493713379
 
+Therefore, we can see that program1 is more efficient than program2.
 This was generated using TestFile.txt.

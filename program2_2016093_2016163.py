@@ -2,6 +2,7 @@
 # Shravika Mittal - 2016093
 # Mehak Gupta - 2016163
 # Assignment 1 DBMS
+# Part 2 using metadata (physical data independence)
 
 import sys
 import time # for calculating the time taken to read the data file
